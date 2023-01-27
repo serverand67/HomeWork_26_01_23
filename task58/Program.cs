@@ -46,8 +46,6 @@ int [,] GetMultiplMatrix(int[,] matrix1, int[,] matrix2)
     return matrix3;
 }
 
-
-
 int[,] matrix1 = new int [2,2];
 int[,] matrix2 = new int [2,2];
 SetAnArray(matrix1);
